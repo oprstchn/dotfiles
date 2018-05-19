@@ -125,3 +125,8 @@
   enabled = true
 [include]
   path = .gitconfig.user
+[ghq]
+	root = /Users/ymasachika/src
+[user]
+	name = oprstchn
+	email = tyakachika@gmail.com
